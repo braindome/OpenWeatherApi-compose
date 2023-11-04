@@ -1,6 +1,6 @@
 # OpenWeatherApi-compose
 
-Tiny test app to get weather data from OpenWeatherMap
+Tiny test app that retrieves weather data from OpenWeatherMap
 
 ## Technologies used:
 - Open Weather API
