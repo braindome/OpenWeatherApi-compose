@@ -3,7 +3,8 @@
 Tiny test app to get weather data from OpenWeatherMap
 
 ## Technologies used:
-- Retrofit
+- Open Weather API
+- Retrofit (testing GET)
 - Jetpack Compose
 - Gson Converter
 - Okhttp Logging Interceptor
